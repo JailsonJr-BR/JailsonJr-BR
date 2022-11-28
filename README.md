@@ -36,7 +36,7 @@
 ### Other Knowledge:
 ![SQL](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117](https://img.shields.io/badge/-Mongodb-0D1117)&nbsp;
 ![Gitflow]()&nbsp;
   
 ### Studying in this moment:
